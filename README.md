@@ -15,3 +15,4 @@ A music streaming and store application built with modern web technologies.
 
 ## License
 MIT
+## Update 2
